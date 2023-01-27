@@ -1,0 +1,34 @@
+body {
+    background-color:light grey;
+    color:navy;
+    
+}
+
+.pairs{
+    margin-top:50px;
+    color:blue;
+    background-color:white;
+    text-align:center;
+}
+
+#shownext{
+    margin-top:30px;
+    
+    
+}
+.highlight{
+    color:red;
+}
+
+
+h1{
+    margin-left: 350px;
+}
+
+
+@media screen and (max-width:416px) {
+    h1{
+        position:relative;
+        right:230px;
+    }
+}
